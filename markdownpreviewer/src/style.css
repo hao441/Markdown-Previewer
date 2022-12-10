@@ -1,0 +1,9 @@
+root {
+  width: 100%;
+}
+
+textarea {
+  text-align: center;
+  width: 70vw;
+  height: 40vh;
+}
